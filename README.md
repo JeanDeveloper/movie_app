@@ -34,19 +34,20 @@ MovieApp sigue una arquitectura **Clean Architecture** con **MVVM** para garanti
 
 ## 📸 Capturas de pantalla
 
-![Pantalla Principal](./assets/screen1.png)
+<p align="center">
+  <img src="assets/screen1.png" width="30%">
+  <img src="assets/screen2.png" width="30%">
+  <img src="assets/screen3.png" width="30%">
+</p>
 
-![Pantalla Principal](./assets/screen2.png)
+<p align="center">
+  <img src="assets/screen4.png" width="25%">
+  <img src="assets/screen5.png" width="25%">
+  <img src="assets/screen6.png" width="25%">
+  <img src="assets/screen6.png" width="25%">
 
-![Pantalla Principal](./assets/screen3.png)
+</p>
 
-![Pantalla Principal](./assets/screen4.png)
-
-![Pantalla Principal](./assets/screen5.png)
-
-![Pantalla Principal](./assets/screen6.png)
-
-![Pantalla Principal](./assets/screen7.png)
 
 ## 📦 Instalación y configuración
 
