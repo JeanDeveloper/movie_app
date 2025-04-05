@@ -44,7 +44,7 @@ MovieApp sigue una arquitectura **Clean Architecture** con **MVVM** para garanti
   <img src="assets/screen4.png" width="25%">
   <img src="assets/screen5.png" width="25%">
   <img src="assets/screen6.png" width="25%">
-  <img src="assets/screen6.png" width="25%">
+  <img src="assets/screen7.png" width="25%">
 
 </p>
 
