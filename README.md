@@ -59,7 +59,7 @@ MovieApp sigue una arquitectura **Clean Architecture** con **MVVM** para garanti
 3. Configura tu archivo `google-services.json` para Firebase.
 4. Obtén una clave de API de [TheMovieDB](https://www.themoviedb.org/) y configúrala en `local.properties`:
    ```properties
-   TMDB_API_KEY=tu_api_key
+   APY_KEY=tu_api_key
    ```
 5. Ejecuta la aplicación en un emulador o dispositivo real.
 
